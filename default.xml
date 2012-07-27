@@ -9,7 +9,7 @@
            review="gerrit.aokp.co" />
 
   <remote  name="nize2beme"
-           fetch="https://github.com/"/>
+           fetch="git@github.com:nize2beme/"/>
 
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
